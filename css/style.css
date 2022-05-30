@@ -1,0 +1,2025 @@
+
+h1{
+    color: #1F4C33;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 11px;
+    font-size: 33px;
+    background-color: #ece5cf6d;
+}
+
+h2{
+    color: #1F4C33;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    font-size: 18px;/*difference**/
+    
+}
+
+h3{
+    color: #ffff;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 40px;/*difference*/
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: calc(1.065rem + .1vw);
+    text-align: center;
+   
+}
+
+h5{
+     font-family:'Open Sans', sans-serif;
+     font-size: 1.1rem;
+     font-weight: bolder;
+     
+}
+p{
+    font-size: 14px;/*diference*/
+}
+ol{
+    text-align: center;
+}
+.bg-light {
+    background-color:rgba(253, 250, 250, 0.808) !important;
+}
+a:visited{
+    color: #030386;
+    text-decoration:none; 
+}
+@import url('https///fonts.googleapis.com/css?family=lato:400,700');
+
+body{
+    background-color: #ffff;
+    overflow-x: hidden;
+    font-family:'Open sans', sans-serif;
+}
+/*Navbar*/
+.nav-link {
+    color: rgba(209, 175, 130, 0.932);
+    font-weight: bold;
+}
+a.nav-link{
+    margin: 20px 50px 20px 50px;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: rgba(27, 24, 24, 0.788);
+}
+navbar a{
+    color: #1f4c43;
+}
+
+a:visited{
+    color: rgba(209, 175, 130, 0.932);
+    text-decoration:none; 
+}
+
+.caption{
+    margin-bottom: 500px;
+    
+}
+.carousel-inner{
+    height: 207px;
+}
+
+.carousel-item {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170px;
+}
+
+.carousel-indicators {
+   position: absolute;
+   bottom: 0px;
+   left: 50%;
+   width: 60%;
+   padding-left: 0;
+   padding-top: 30px;
+   margin-left: -30%;
+   text-align: center;
+   list-style: none;
+}
+
+main{
+    padding-top:200px;
+}
+
+.navbar {
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0rem; 
+    padding-bottom: 0rem;
+    margin-bottom: 0px; 
+    background-size: cover;
+    background-color: #e9f0ea;
+    
+}
+.navbar-brand {
+    padding-top: 0rem; 
+    padding-left:0.5rem;
+    padding-bottom: 0rem;
+    margin-right: 20.9rem;
+    font-size: 5.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+    border:none;
+    height: 40px;
+}
+.navbar-collapse{
+    padding-right: 15px;
+    padding-left: 15px;
+    overflow-x: visible;
+    border-top: 1px solid transparent;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 15px;
+    margin-left: 15px; 
+}
+#navbarSupportedContent{
+    background-color:#fffffff8;
+}
+.navbar-expand-lg .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    
+}
+.navbar-light .navbar-toggler-icon {/**********************Menu burger*************************************/
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(73, 77, 77, 0.699)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  color: rgba(194, 149, 43, 0.699);
+  width: 28px;
+  height: 28px;
+}
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, 0);
+    border-color: rgba(0,0,0,0);
+    padding-right: 1.30rem;
+  }
+  .navbar-toggler-icon:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 .0rem;
+  }
+ul.ml-md-auto{
+    float: right;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    min-width: 335px;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    margin-bottom: 0;
+    list-style: none;
+  }
+.navbar-nav li{
+    width: 362px;
+    border: 1px solid grey;
+    border-radius: 2.5px;
+    padding-right: 0.7rem;
+}
+.navbar-nav i{
+    float: right;
+}
+.nav-link{
+    color:rgba(209, 175, 130, 0.932);
+    padding-top:.8rem;
+}
+.nav-link.active,
+.nav-link:hover{
+    color: rgba(194, 149, 43, 0.699);
+    padding-top: 0.8rem;
+}
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: 15s ease-in-out;
+  }
+/*Fin navbar*/
+.grandTitre{
+    background-color: #f2f7f4b7;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+/*--Slider--*/
+
+
+.medecine{
+    min-height: 62vh;
+    background-color: #1F4C33;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 35px ;
+    padding-right: 35px;
+    padding-bottom: 30px;
+    font-weight: lighter;
+}
+
+.description{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 22px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 9px;
+    font-size: 16px;
+}
+
+
+a.btnmilieu{
+    width:250px;
+    height: 48px;
+    margin: 0 auto;
+    display: block;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    background-color: #f5ba5c;
+    border: 3px solid #f5ba5c;
+    border-radius: 7px;
+    font-size: 14px;
+    color: #e9f0ea; 
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: bolder;    
+}
+
+a.btndroite{
+    border: 3px solid #f5ba5c;
+    font-family: 'Kanit', sans-serif;
+    background-color: #f5ba5c;
+    border-radius: 7px;
+    position: absolute; 
+    margin-top: 0px;
+    right: 0;
+    width:300px;
+    height: 45px;
+    font-size: 14px;
+    color: #fbf5eb;
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/**--Parallax Home--**/
+.parallax {
+   
+    background-image: url("../assets/images/zen.jpg");
+    min-height: 200px; 
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/**-- FIN Parallax Home--**/
+ 
+.bouddha{
+    margin-top: 20px;
+    background-image: url('../assets/images/face.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height:60vh;
+}
+
+.ambiance{
+    margin-top: 20px;
+    min-height: 80.5vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    color: #ffff;
+    background-color: #1F4C33;
+    padding: 13px 35px 25px 35px;
+    text-align: center;
+  }
+
+.description1{
+    padding: 20px;
+    padding-bottom: 13px;
+    margin-bottom: 31px;
+}
+.container, .container-fluid, .col{
+     padding: 0px;
+}
+
+ /*PASTILLES*/
+ .choix{
+    min-height:750px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+hr{
+    margin: 50px;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .50;
+    height: 1px;
+}
+
+.choix h3{
+   
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 70px;
+   
+}
+.texte_centrer {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat' sans-serif;
+    font-size: 14px;
+    color: #e9f0ea;
+    font-weight: 600;
+    background-color: #1f552590;
+    border-radius: 15px;
+    width: 142px;
+    height: 145px;
+    padding-top:50px;
+    
+  }
+
+.pastille{
+    padding-right: calc(var(--bs-gutter-x) * .1);
+    padding-left: calc(var(--bs-gutter-x) * .1);
+    margin-top: calc(var(--bs-gutter-y) * .2);
+}
+ 
+
+.item{
+      padding: 3px;
+}
+.img-fluid{
+    opacity: 10;
+    box-shadow:0 0 5px 2px #666;
+    border-radius: 15px;
+    -webkit-filter: sepia(10%);
+   filter: sepia(10%);
+   -webkit-transition: .3s ease-in-out;
+   transition: .3s ease-in-out;
+
+} 
+  
+ /*Pastile Mobile*/ 
+li{
+    padding: 0px;
+}
+ul{
+      padding: 0;
+      margin: 0;
+      font-size: 14px;
+}
+.fa-twitter, .fa-facebook-f{
+      font-weight:bolder;
+      margin: 4px;
+      color: black;
+}
+
+.Copyright p{
+      text-align: center;
+}
+.baspage{
+
+    text-align: right;
+}
+.leeMail{
+    font-size: 1.8rem;
+    color: #1F4C33;
+}
+.social{
+    width: 50px;
+    margin-top:30px;
+    display: flex;
+    margin: 0 auto;
+   box-sizing: border-box;
+}
+.social i{
+    text-align: center;
+}
+.hauteur{
+    padding: 20px 15px 20px 30px;
+    
+}
+.location{
+    color: #1F4C33;
+    width: 50px;
+    padding-top: 10px;
+}
+.location:hover{
+         color: #f5ba5c;
+}
+
+.contactfoot{
+    float: right;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.listfoot{
+    float: right;
+    padding-left: 0px;
+    margin-right: 10px;
+    display: flex;
+}
+
+footer{
+      background-color: #ede9e2;
+      font-family: 'Open sans', sans-serif;
+      font-weight: bolder;
+      color: #1F4C33;
+      padding: 6px;
+}
+footer li{
+    font-size: 14px;
+    margin-right: 15px;
+    
+}
+h5{
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+   
+}
+
+.fa, .fa-brands, .fa-duotone, .fa-light, .fa-regular, .fa-solid, .fa-thin, .fab, .fad, .fal, .far, .fas, .fat {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: var(--fa-display,inline-block);
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1.5; 
+    text-rendering: auto;
+    padding-right: 13px;
+   
+}
+
+.px-2 {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+}
+/***************************Tarifs version Mobile******************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+.Hand{
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+}
+.Hand img{
+    width: 50px;
+    height: 50px;
+}
+.Hand p{
+    margin:0px;
+    font-size: 14px;
+}
+.Hand h1{
+    font-size: 27px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.Hand h2{
+    color: black;
+    font-weight:bold;
+}
+.Hand h3{
+    font-size: 18px;
+    font-weight: bolder;
+    color: rgb(134, 180, 130);
+}
+/**************************FIN tarifs version Mobile****************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+/**************************Acupuncture Version Mobile***************************************/
+
+.all{
+    height: 200px;
+   background-image: url("../assets/images/landchina2.jpg"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.equilibre{
+    background-color: #1F4C33;
+    height: 650px;
+    color: #e9f0ea;
+    text-align: center;
+    font-family: 'Open Sans' sans-serif;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.equilibre p{
+ font-size: 12px;
+}
+.equilibre h1{
+    margin-bottom:1.5rem ;
+    color: #e9f0ea;
+    font-size: 20px;
+    text-align: center;
+}
+.clinique{
+    padding-left: 50px;
+    float: left;
+}
+.clinique p{
+    margin-top: 40px;
+    font-size: 14px;   
+}
+.clinique img{
+    margin-left: 0px;
+    margin-bottom: 10px;
+    width: 70%;
+    height: auto;
+}
+.clinique h4,ul{
+    font-weight: bold;
+    float: left;
+    margin-bottom: 10px;
+}
+.clinique ul{
+    font-size:14px;
+    
+}
+.bienfaits {
+    padding-left: 1.5rem;
+    padding-right: auto;
+    text-align: center;
+    height: 300px;
+    font-weight: medium;
+}
+.bienfaits h2{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.bienfaits p{
+    font-size: 12px;
+}
+.parallax1{
+    background-image: url("../assets/images/epaule.jpg");
+    min-height: 200px; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+.regle{
+    padding-top: 30px;
+    text-align: center;
+}
+.regle img{
+    padding: 0 auto;
+    padding-top: 150px;
+    text-align: center;
+}
+.traitAcu{
+    min-height: 355px;
+    background-color: rgb(213,189,154);
+}
+.traitAcu a{
+    color: black;
+}
+
+.fingers{
+    padding: 0;
+    text-align: left;
+    min-width: 400px;
+    min-height: 350px;
+}
+
+.traitAcu p{
+   font-size: 12px;
+}
+.medoc img{
+    width: 180px;
+    height: auto;
+}
+.approche img{
+    width: 183px;
+    height: 119px;
+}
+.medoc p,.approche p{padding: 11px;}
+.medoc img, .approche img, .medoc h4,.approche h4{ margin-bottom: 5px;}
+.medoc h4,.approche h4{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Montserrat' sans-serif;
+}
+/************************FIN Acupuncture Version Mobile*************************************/
+ 
+/*******************************************************************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+/**************************Troubles Version Mobile******************************************/
+.healthp{
+    background-color: #fbf5eb;
+    border: 5px solid #ffff;
+}
+.troubles ul{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight:normal;
+}
+.troubles h4{
+    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.salle{
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    margin-bottom: 35px;
+}
+.salle img{
+    width:80%;
+    border-top-left-radius: 8px;
+    box-shadow:5px 5px #1F4C33 ;
+
+}
+.espaceTitre h3{
+    color: black;
+    margin-bottom: 30px;
+}
+.espaceTitre{
+    height: 100px;
+}
+/****Caroussel Troubles Mobile*****/
+#slider{
+    background-image: url('../assets/images/bamboo.webp');
+    padding-left: 60px;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+.img-area{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.img-area img{
+    width: 100%;
+    border-radius: 100%;
+}
+.content{
+    width: 300px;
+    height: 260px;
+    margin-right: 5px;
+    text-align: center;
+    padding: 40px;
+    margin-right: 10px;
+    color: rgb(21, 20, 20);
+    border-radius: 25px;
+    background-color: rgba(255,255,255,0.8);
+    backdrop-filter:blur(12px);
+    -webkit-backdrop-filter:blur(12px);
+}
+.content-area{
+    width: 300px;
+    height: 260px;
+    margin: 0;
+}
+.content h6{
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.content p{
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+.socials{
+    margin-top: 30px;
+}
+.socials i{
+    font-size: 20px;
+    margin: 0 10px;
+}
+.owl-dots{
+    text-align: center;
+    margin-top: 3%;
+}
+.owl-item .active{
+    width: 100px;
+    height: 100px;
+}
+.owl-dot{
+    display: inline-block;
+    height: 10px !important;
+    width: 10px !important;
+    background-color: #ddd !important;
+    opacity: .8;
+    margin: 0 10px;
+    border-radius: 50%;
+}
+.owl-dot.active{
+  background-color: #fff !important;
+}
+
+/****FIN Caroussel Mobile****/
+/**************************FIN Troubles Version Mobile*************************************/
+
+/*******************************************************************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+/**************************Biographie Version Mobile******************************************/
+
+.bio{
+    font-size:10px;
+    min-height: 430px;
+}
+.bio img{
+    margin-left: 0px;
+    margin-bottom: 10px;
+    width: 90%;
+    height: auto;
+}
+.bio h3{
+ color: #1F4C33;
+ margin-right:0 auto;
+}
+.bio p{
+    margin-left: 0px;
+}
+.formationPro{
+    width: 220px;
+    border-radius: 5px;
+    background-color: #1F4C33;
+    min-height: 300px;
+    
+}
+.formationPro h4{
+    margin-top: 15px;
+    color: #ffff;
+}
+.formationPro ul{
+    margin-top: 15px;
+    color: #ffff; 
+    font-size: 11px;
+}
+.formationPro li{
+    font-weight: lighter;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.formationPro li{
+    animation-duration: 5s;
+    animation-name: slidein1;
+  }
+  
+  @keyframes slidein1 {
+    from {
+      margin-left: 100%;
+      width: 0%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 70%;
+    }
+}
+.reception img{
+  
+  width:100%;
+  height: auto;
+}
+.parallax2 {
+   
+    background-image: url("../assets/images/confucius.webp");
+    min-height: 200px; 
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .signature{
+      text-align: center;
+      min-height: 200px;
+      width: 400px;
+  }
+  .signature a{
+      margin: 0 auto;
+  }
+  .signature p{
+      margin: 0 auto;
+      text-align: center;
+  }
+  /**************************FIN Biographie Version Mobile******************************************/
+  /************************************************************************************************/
+  /***********************************************************************************************/
+  /**********************************************************************************************/
+  /**********************************************************************************************/
+  /*********************************Contact Version Mobile**************************************/
+
+
+.thankyou{
+    background-color: #fdfcfb;
+}
+.thankyou h1{
+    color: #1F4C33;
+    background-color: none;
+}
+.contact img{
+    width:100%;
+    float: right;
+    margin-right: 0px;
+    margin-top: 100px;
+}
+.contact a{
+    font-size: 13px;
+}
+ .contact p{
+     text-align: center;
+     font-size: 14px;
+     font-weight: 400;
+     
+}
+.contact h2{
+    margin-bottom: 100px;
+    text-align: center;
+}
+  
+.formulaire h2{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+} 
+.thankyou{
+    
+}
+section#appointment .container{
+    background-color: #e4dbc4;
+    padding: 25px 20px;
+    min-width:390px;
+    max-width: 1600px;
+    height: 490px;
+    margin: 0 auto;
+    display: block;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 15px;
+    box-shadow: 0px 10px 20px -5px rgb(133, 129, 129);
+} 
+#mc_embed_signup{
+    margin: 0 auto;
+}
+section#appointment .container .formulaire{
+     width: 100%;
+}
+section#appointment .container h2{
+    font-size: 2.5em;
+    color: #1F4C33;
+    margin-bottom: 25px;
+}
+section#appointment .container .formulaire form{
+   
+    display: block;
+}
+section#appointment textarea{
+    width: 100%;
+    height: 100px;
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #ffffff;
+    transition: 1.5s;
+    border: 1px solid rgb(203, 201, 201);
+    box-shadow: inset 5px 5px 5px -5px rgb(203, 201, 201);
+
+}
+section#appointment .container .formulaire input{
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #ffffff;
+    transition: 1.5s;
+    border: 1px solid rgb(203, 201, 201);
+    box-shadow: inset 5px 5px 5px -5px rgb(203, 201, 201);
+}
+
+section#appointment .container .formulaire input:hover{
+    border-bottom: 4px solid #199637;
+ }
+
+ section#appointment .container .formulaire input.nom-famille,
+section#appointment .container .formulaire input.email{
+    width:100%;
+}
+section#appointment .container .formulaire input.numero-telephone{
+    width:100%;
+
+}
+section#appointment .container .formulaire input.numero-tel,
+section#appointment .container .formulaire input.date,
+section#appointment .container .formulaire input.horaire{
+    width: 100%;
+}
+
+section#appointment .container .formulaire button.submit-btn{
+    width: 150px;
+    height: 35px;
+    margin-left:100px;
+    margin-right: 100px;
+    border-radius:  8px;
+    border: none;
+    background-color:#f5ba5c  ;
+    color: #ffff;
+    font-weight: 800;
+    font-size: 1.2em;
+    font-family: 'Open sans' sans-serif;
+    text-transform: uppercase;
+    font-size: normal;
+    font-weight: bolder;
+    cursor:pointer;
+    margin-top: 10px;
+    outline:none;
+    
+   }
+section#appointment .container .formulaire button.submit-btn:hover{
+    background-color:#fbf5eb;
+    border: 2px solid #f5ba5c;
+    color: #f5ba5c;
+}
+section#appointment{
+
+    margin: 0 ;
+    width: 30%;
+    background-color: #ffff;
+    margin-top: 40px;
+}
+
+section#appointment .container .formumlaire{
+    font-size: 2em;
+    background-color: #ffff;
+}
+
+/*********************************FIN Contact Version Mobile**********************************/
+ @media(min-width:769px){
+/**Navbar start**/
+     
+    .navbar {
+    
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 0rem; 
+        padding-bottom: 0rem;
+        margin-bottom: 0px; 
+        background-size: cover;
+        background-color: #e9f0ea;
+        
+    }
+    .navbar-brand {
+        padding-top: 0rem; 
+        padding-left:0.5rem;
+        padding-bottom: 0rem;
+        margin-right: 20.9rem;
+        font-size: 5.25rem;
+        text-decoration: none;
+        white-space: nowrap;
+        border:none;
+        height: 40px;
+    }
+    .navbar-collapse{
+        padding-right: 15px;
+        padding-left: 15px;
+        overflow-x: visible;
+        border-top: 1px solid transparent;
+    }
+
+    .navbar-expand-lg .nav-link {
+        padding-right: 3.5rem;
+        padding-left: 3.5rem;
+        
+    }
+    .navbar-toggler-icon {/**********************Menu burger*************************************/
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(73, 77, 77, 0.699)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+      color: rgba(73, 77, 77, 0.699);
+      width: 28px;
+      height: 28px;
+    }
+    .navbar-toggler {
+        color: rgba(0, 0, 0, 0);
+        border-color: rgba(0,0,0,0);
+        padding-right: 1.30rem;
+      }
+      .navbar-toggler-icon:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 .0rem;
+      }
+    ul.ml-md-auto{
+        float: right;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        min-width: 335px;
+    }
+    #MainMenu{
+        display: flex;
+        flex-direction: column;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+    }
+    .navbar-nav i{
+        visibility:hidden;
+    }
+    .navbar-nav {
+        display: flex;
+        flex-direction: column;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+      }
+    .navbar-nav li{
+        width: 175px;
+        border: 1px solid rgb(255, 255, 255);
+         border-radius: 2.5px;
+        padding-right: 2.7rem;
+    }
+    .bi-arrow-right{
+        position: right;
+    }
+    .nav-link{
+        color:rgba(209, 175, 130, 0.932);
+        padding-top:.8rem;
+    }
+   
+    .nav-link.active,
+    .nav-link:hover{
+        color: #646b67;
+        padding-top: 0.8rem;
+    }
+    .navbar-toggler {
+        padding: 0.25rem 0.75rem;
+        font-size: 1.25rem;
+        line-height: 1;
+        background-color: transparent;
+        border: 1px solid transparent;
+        border-radius: 0.25rem;
+        transition: 15s ease-in-out;
+    }
+
+    /*Fin navbar*/
+
+
+    body{
+        background-color: #ffff;
+        overflow-x: hidden;
+        font-family:'Open sans', sans-serif;
+    }
+
+    h1{
+        color: #1F4C33;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 11px;
+        font-size: 48px;
+    }
+    
+    h2{
+        color: #1F4C33;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 900;
+        font-size: 25px;/*difference**/
+        
+    }
+    
+    h3{
+        color: #ffff;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        font-size: 40px;/*difference*/
+    }
+    h4{
+        font-family: 'Open Sans', sans-serif;
+        font-size: calc(1.065rem + .1vw);
+        text-align: center;
+       
+    }
+    
+    h5{
+         font-family:'Open Sans', sans-serif;
+         font-size: 1.1rem;
+         font-weight: bolder;
+         
+    }
+    .bg-light {
+        background-color:#ffff !important;
+    }
+    .caption{
+        margin-bottom: 1000px;
+    }
+    .carousel-item {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+        background-color: #e4dbc472;
+    }
+    .carousel-inner{
+        height: 500px;
+    }
+    
+
+    .navbar-expand-lg .nav-link {
+        padding-top: 4.5rem;
+        padding-right: 1.5rem;
+        padding-left: 1.5rem;
+        
+    }
+
+    .navbar  .navbar-expand-lg {
+         
+    }
+
+    .titreSlide{
+       background-color: #e4dbc472; 
+    }
+
+    .btnslider .btnmilieu{
+        position: absolute;
+        margin: 0 auto;
+        margin-bottom: 500px;
+        z-index: 200;
+    }
+    a.btnmilieu{
+        width:250px;
+        height: 48px;
+        margin: 0 auto;
+        display: block;
+        font-family: 'M PLUS Rounded 1c', sans-serif;
+        background-color: #f5ba5c;
+        border: 3px solid #f5ba5c;
+        border-radius: 7px;
+        font-size: 14px;
+        color: #e9f0ea; 
+        font-style: normal;
+        text-transform: uppercase;
+        font-weight: bolder;    
+    }
+    a.btndroite{
+        border: 3px solid #f5ba5c;
+    font-family: 'Kanit', sans-serif;
+    background-color: #f5ba5c;
+    border-radius: 7px;
+    position: absolute;
+    margin-top: 0px;
+    right: 0;
+    width: 300px;
+    height: 45px;
+    font-size: 14px;
+    color: #fbf5eb;
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: bold;
+    }
+    .btnmilieu:hover{
+        color:#f5ba5c;
+        background-color: rgb(255, 255, 255);
+    }
+    .btndroite:hover{
+        color:#f5ba5c;
+        background-color: rgb(255, 255, 255);
+        border: 2px solid #f5ba5c;
+    }
+    #navbarSupportedContent{
+        background-color:#fffffff8;
+       
+    }
+    .grandTitre{
+        background-color: #f2f7f4b7;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+
+    .medecine{
+        min-height: 45vh;
+        background-color: #1F4C33;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-bottom: 30px;
+        font-weight: lighter;
+    }
+
+    .ambiance{
+        min-height: 72.5vh;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: lighter;
+        color: #ffff;
+        background-color: #1F4C33;
+        padding: 50px 35px 25px 35px;
+        text-align: center;
+    }
+
+
+   .description{
+        padding-left: 200px;
+        padding-right: 200px;
+        margin-bottom: 42px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 9px;
+        font-size: 16px;
+    }
+    .description1{
+        font-size: 16px;
+        padding: 15px;
+        padding-bottom: 13px;
+        margin-bottom: 41px;
+    }
+    a.nav-link{
+        margin: 0px 0px 0px 0px;
+        font-size: 18px;
+        font-weight: bolder;
+        padding: 1.7rem;
+    }
+    .navbar-brand {
+        padding-top: 0rem; 
+        padding-left: 2.0225rem;
+        padding-bottom: 0rem;
+        margin-right: 30.9rem;
+        font-size: 5.25rem;
+        text-decoration: none;
+        white-space: nowrap;
+        border:none;
+        height: 100px;
+    }
+    
+  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+      min-width: 1620px;
+ }
+ .navbar > .container, .navbar > .container-fluid, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container-xl, .navbar > .container-xxl {
+        display: block;
+        flex-wrap: inherit;
+        align-items: center;
+        justify-content: space-between;
+}
+  .lemenu{
+          background-color: #ffff;
+}
+ .item{
+        text-align: center;
+        background-size: cover;
+}
+
+
+.parallax {
+   
+    background-image: url("../assets/images/zen.jpg");
+    min-height: 400px; 
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ /*PASTILLES Desktop*/
+
+ .choix{
+    width: 996px;
+    min-height:850px;
+    
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.choix h3{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+hr{
+    margin: 50px;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .50;
+    height: 2px;
+}
+
+.photos{
+    text-align: center;
+}
+.pastille{
+    padding-right: calc(var(--bs-gutter-x) * 1.0);
+    padding-left: calc(var(--bs-gutter-x) * 1.0);
+    margin-top: calc(var(--bs-gutter-y) * 1.0);
+}
+.texte_centrer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat' sans-serif;
+    color: #e9f0ea;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #1f552590;
+    border-radius: 15px;
+    width: 160px;
+    height: 160px;
+    padding-top:60px;
+    transition: 0.3s;
+}
+.texte_centrer:hover {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat' sans-serif;
+    color: #07240b;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #ffffff63;
+    border-radius: 15px;
+    width: 160px;
+    height: 160px;
+    padding-top:60px;
+}
+
+.item{
+      padding: 3px;
+}
+
+ .img-fluid{
+     border-radius: 15px;
+     -webkit-filter: sepia(50%);
+	filter: sepia(50%);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+ 
+ } 
+.img-fluid:hover{ 
+    
+ -webkit-filter: sepia(0);
+	filter: sepia(0);
+    opacity: 1;
+    }
+ /*Pastile Desktop*/
+
+footer{
+    background-color: #ede9e2;
+    font-family: 'Open sans', sans-serif;
+    font-weight: bolder;
+    color: #1F4C33;
+    padding: 6px;
+    border-top: 2px solid rgb(33, 60, 33);
+}
+footer li{
+    font-size: 16px;
+}
+.leeMail{
+    font-size: 1.8rem;
+    color: #1F4C33;
+}
+a{
+    color: #b8a361;
+    text-decoration: none;
+}
+
+.contactfoot{
+    float: right;
+    margin-left: 130px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+.social{
+    width: 100px;
+    margin-top:20px;
+    text-align: center;
+    display: flex;
+}
+.social i{
+    text-align: center;
+}
+.baspage{
+    padding-left: 320px;
+    text-align: right;
+}
+.listfoot{
+
+    padding-left: 150px;
+    margin-right: 0px;
+    text-align: right;
+    text-decoration: none;
+}
+.hauteur{
+    padding-top:20px;
+    padding-left: 150px;
+    padding-right: 100px;
+}
+.location{
+    color: #1F4C33;
+}
+.location:hover{
+         color: #f5ba5c;
+}
+.location img{
+    width: 10%;
+}
+ul{
+    font-size: 14px;
+    font-weight: bold;
+}
+h5{
+    font-weight: 900;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.Copyright p{
+    font-size: 11px;
+
+        
+}
+.fa, .fa-brands, .fa-duotone, .fa-light, .fa-regular, .fa-solid, .fa-thin, .fab, .fad, .fal, .far, .fas, .fat {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: var(--fa-display,inline-block);
+    font-style: normal;
+    font-variant: normal;
+     line-height: 1.5; 
+    text-rendering: auto;
+    padding-right: 13px;
+}
+
+  /**************************FIN Biographie Version Desktop******************************************/
+  /************************************************************************************************/
+  /***********************************************************************************************/
+  /**********************************************************************************************/
+  /**********************************************************************************************/
+  /*********************************Contact Version Desktop**************************************/  
+ /***********************************formulaire Desktop****************************************/
+ .contact img{
+    width: 70%;
+   float: right ;
+   margin-right: 80px;
+    margin-top: 0px;
+}
+.contact p{
+    margin-right: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+.contact a{
+    font-size: 15px;
+}
+.contact h2{
+margin-bottom: 100px;
+}
+ 
+ 
+ .formulaire h2{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+section#appointment .container{
+     background-color: #ffffff;
+     padding: 25px 20px;
+     min-width:390px;
+     max-width: 1600px;
+     height: 540px;
+     margin: 0 auto;
+     display: block;
+     justify-content: space-evenly;
+     align-items: center;
+     flex-direction: row;
+     border-radius: 15px;
+     box-shadow: 0px 10px 20px -5px rgb(133, 129, 129);
+}
+section#appointment .container .formulaire{
+    width: 100%;
+}
+section#appointment .container h2{
+    font-size: 2.5em;
+    color: #1F4C33;
+    margin-bottom: 50px;
+}
+section#appointment .container .formulaire form{
+   
+    display: block;
+}
+section#appointment textarea{
+    width: 100%;
+    height: 100px;
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #ffffff;
+    transition: 1.5s;
+    border: 1px solid rgb(203, 201, 201);
+    box-shadow: inset 5px 5px 5px -5px rgb(203, 201, 201);
+
+}
+section#appointment .container .formulaire input{
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #ffffff;
+    transition: 1.5s;
+    border: 1px solid rgb(203, 201, 201);
+    box-shadow: inset 5px 5px 5px -5px rgb(203, 201, 201);
+}
+section#appointment .container .formulaire input:hover{
+   border-bottom: 2px solid #199637;
+}
+section#appointment .container .formulaire input.nom-famille,
+section#appointment .container .formulaire input.email{
+    width:100%;
+}
+section#appointment .container .formulaire input.numero-telephone{
+    width:45%;
+
+}
+section#appointment .container .formulaire input.numero-tel,
+section#appointment .container .formulaire input.date,
+section#appointment .container .formulaire input.horaire{
+    width: 100%;
+}
+section#appointment .container .formulaire button.submit-btn{
+ width: 200px;
+ height: 45px;
+ margin-left:100px;
+ margin-right: 100px;
+ border-radius:  8px;
+ border: none;
+ background-color:#f5ba5c  ;
+ color: #ffff;
+ font-weight: 800;
+ font-size: 1.2em;
+ font-family: 'Open sans' sans-serif;
+ text-transform: uppercase;
+ font-size: normal;
+ font-weight: bolder;
+ cursor:pointer;
+ margin-top: 30px;
+ outline:none;
+ 
+}
+section#appointment .container .formulaire button.submit-btn:hover{
+background-color:#fbf5eb;
+border: 2px solid #f5ba5c;
+color: #f5ba5c;
+}
+section#appointment{
+
+    margin: 0 auto;
+    width: 30%;
+    background-color: #ffff;
+    margin-top: 40px;
+}
+
+section#appointment .container .formumlaire{
+ font-size: 2em;
+ background-color: #ffff;
+}
+
+/*************************** FIN formulaire Desktop*************************/
+/**************************************************************************/
+/*************************************************************************/
+/************************************************************************/
+/**************************Acupuncture Version Desktop*******************/
+
+.all{
+        height: 400px;
+       background-image: url("../assets/images/landchina2.jpg"); 
+       background-repeat: repeat;
+       background-size: cover;
+}
+.equilibre{
+    background-color: #1F4C33;
+    min-height:500px;
+    color: #e9f0ea;
+    text-align: center;
+    font-family: 'Open Sans' sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.equilibre p{
+ font-size: 14px;
+}
+.equilibre h1{
+    margin-top: 30px;
+    margin-bottom:1.5rem ;
+    color: #e9f0ea;
+    font-size: 20px;
+    text-align: center;
+    background-color: transparent;
+}
+.clinique{
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+.clinique p{
+    font-size: 12px; 
+     
+}
+.clinique img{
+    
+    margin-bottom: 10px;
+    width: 60%;
+    height: auto;
+}
+.clinique h4,ul{
+    font-weight: bold;
+    font-size: 15px;
+    float: left;
+    margin-bottom: 10px;
+}
+.clinique h4{
+    margin-right: 50px;
+    text-align: left;
+    
+}
+.clinique ul{
+    font-size:14px;
+    padding-right: 55px;
+    
+}
+.clinique li{
+    padding-left: 0px;
+}
+.bienfaits {
+    padding-top: 30px;
+    padding-left: 1.5rem;
+    padding-right: auto;
+    text-align: center;
+    height: 300px;
+    font-weight: medium;
+}
+.bienfaits h2{
+    padding-top: 300px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.bienfaits p{
+    font-size: 15px;
+}
+.parallax1{
+    background-image: url("../assets/images/epaule.jpg");
+    min-height: 400px; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.regle{
+    padding-left:30px;
+    padding-right: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+.regle img{
+    width: 50%;
+    padding: 0 auto;
+    padding-top: 0px;
+    text-align: center;
+}
+.traitAcu{
+    min-height: 350px;
+    background-color: rgb(213,189,154);
+}
+
+.fingers{
+    padding: 0;
+    text-align: left;
+    min-width: 400px;
+    min-height: 250px;
+    
+    
+}
+.yinyang{
+    visibility: hidden;
+}
+.traitAcu p{
+   font-size: 15px;
+   padding-right: 20px;
+}
+.traitAcu h2{
+   margin-top: 50px;
+}
+.traitAcu{
+    height: 330px;
+    margin-top: 30px;
+}
+.equilibre p{
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+
+@keyframes slidein{
+    from {
+      margin-left: 100%;
+      width:100%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  #SecAnimation1{
+    animation-timing-function: ease;
+    animation: mymove 5s;
+    position: relative;
+    background-color: #ffffff9f;
+    right: 0;
+  } 
+#SecAnimation{
+    animation-timing-function: ease;
+    animation: mymove 10s;
+    position: relative;
+    background-color: #ffffff9f;
+    right: 0;
+}
+@keyframes mymove {
+    from {left: -500px;}
+    to {left: 30px;}
+}
+.medoc img{
+    width: 180px;
+    height: auto;
+}
+.approche img{
+    width: 183px;
+    height: 119px;
+}
+.medoc ,.approche {
+ padding-left: 200px;
+ padding-right: 100px;
+}
+.medoc p,.approche p{padding: 0px;}
+.medoc img, .approche img, .medoc h4,.approche h4{ margin-bottom: 5px;}
+.medoc h4,.approche h4{
+    text-align: left;
+    margin-left: 0px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Montserrat' sans-serif;
+}
+/************************FIN Acupuncture Version Desktop*************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+/*******************************************************************************************/
+ /**************************Troubles Version Desktop******************************************/
+.healthp{
+  
+    background-color: #fbf5eb;
+    border: 5px solid #ffff;
+}
+
+.troubles ul{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight:normal;
+}
+.troubles li{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.troubles h4{
+    
+    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.salle{
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    margin-bottom: 60px;
+}
+.salle img{
+   
+    width:45%;
+    border-top-left-radius: 8px;
+    box-shadow:5px 5px #1F4C33;
+
+}
+.testimonials{
+    color: black;
+    text-align: center;
+}
+.espaceTitre h3{
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.espaceTitre{
+    height: 100px;
+}
+/****Caroussel Troubles Desktop*****/
+#slider{
+    background-image: url('../assets/images/bamboo.webp');
+    padding-left: 200px;
+    padding-right: 150px;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+.img-area{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.img-area img{
+    width: 100%;
+    border-radius: 100%;
+}
+.content{
+    width: 250px;
+    height: 260px;
+    margin-right: 5px;
+    text-align: center;
+    padding: 40px;
+    margin-right: 10px;
+    color: rgb(21, 20, 20);
+    border-radius: 25px;
+    background-color: rgb(233 205 150 / 40%);
+    backdrop-filter:blur(12px);
+    -webkit-backdrop-filter:blur(12px);
+}
+.content-area{
+    width: 300px;
+    height: 260px;
+    margin: 0;
+}
+.content h6{
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.content p{
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+.socials{
+    margin-top: 30px;
+}
+.socials i{
+    font-size: 20px;
+    margin: 0 10px;
+}
+.owl-dots{
+    text-align: center;
+    margin-top: 3%;
+}
+.owl-item .active{
+    width: 100px;
+    height: 100px;
+}
+.owl-dot{
+    display: inline-block;
+    height: 10px !important;
+    width: 10px !important;
+    background-color: #ddd !important;
+    opacity: .8;
+    margin: 0 10px;
+    border-radius: 50%;
+}
+.owl-dot.active{
+  background-color: #fff !important;
+}
+
+/****FIN Caroussel Desktop****/
+/**************************FIN Troubles Version Desktop*************************************/
+
+
+/**************************Biographie Version Desktop******************************************/
+
+.bio{
+    font-size:10px;
+    min-height: 430px;
+    
+}
+
+.bio h1{
+    padding-left: 250px;
+}
+.bio img{
+    margin-left: 60px;
+    margin-bottom: 10px;
+    width: 30%;
+    height: auto;
+}
+
+.bio h3{
+ color: #1F4C33;
+ margin:0 auto;
+}
+.bio p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.formationPro{
+   width: 600px;
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: #1F4C33;
+   height: 400px;
+   
+}
+.formationPro h4{
+    margin-top: 30px;
+    margin-top: 20px;
+    color: #ffff;
+    font-size: 20px;
+}
+.formationPro ul{
+   
+    color: #ffff; 
+    font-size: 16px;
+}
+.formationPro li{
+    margin-top: 20px;
+    padding-left: 60px;
+    padding-right: 30px;
+    font-weight: lighter;
+}
+.reception img{
+  
+  width:75%;
+  margin-bottom: 150px;
+  margin-left: 200px;
+  height: auto;
+}
+.parallax2 {
+   
+    background-image: url("../assets/images/confucius.webp");
+    min-height: 350px; 
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .signature{
+      text-align: center;
+      min-height: 200px;
+      width: 400px;
+  }
+  .signature a{
+      margin: 0 auto;
+  }
+  .signature p{
+      margin: 0 auto;
+      text-align: center;
+  }
+  /**************************FIN Biographie Version Desktop******************************************/
+}
