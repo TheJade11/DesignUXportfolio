@@ -23,4 +23,4 @@
                                                                CSS
 ![style1](https://user-images.githubusercontent.com/99449649/215290443-d55b2b29-e87a-4c9a-b30b-9a6d5c37e3fb.JPG)
 ![style2](https://user-images.githubusercontent.com/99449649/215290448-45a24c9f-6beb-4178-afe8-f4dd37810600.JPG)
-![style2](https://user-images.githubusercontent.com/99449649/215352164-7fe8e40b-7a4b-4010-87e4-f01a7dac02f8.JPG)
+![media](https://user-images.githubusercontent.com/99449649/215352211-bf0d57ff-27b9-4ade-90e5-f17aed47d9bd.JPG)
