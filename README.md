@@ -61,4 +61,11 @@
  ![Mobile2](https://user-images.githubusercontent.com/99449649/216162984-22f3ee89-9a78-48b2-b4c0-3f0eb0b826dc.JPG)
  ![Menu Burger](https://user-images.githubusercontent.com/99449649/216163021-56be0227-d400-4d1f-b7b0-feee5beb668c.JPG)
  ![Mobile footer](https://user-images.githubusercontent.com/99449649/216163044-613bc6ab-6b48-4a36-b677-0d6e6cbfceba.JPG)
-              
+ 
+                                                           VERSION DESKTOP
+                                                           
+ ![index](https://user-images.githubusercontent.com/99449649/216163234-6357af39-ce8e-4f91-ad91-6294a67b62d6.JPG)
+ ![option](https://user-images.githubusercontent.com/99449649/216163311-d40244b2-970e-4969-8228-13d6d6ded761.JPG)
+ ![blog](https://user-images.githubusercontent.com/99449649/216163342-666ea2fa-48c0-424a-9fb0-9788ad2fa375.JPG)
+ ![activités](https://user-images.githubusercontent.com/99449649/216163434-ed5e3be8-84f7-4d4d-b0bf-700c61f44f34.JPG)
+
