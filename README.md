@@ -57,31 +57,39 @@
                                                           
                                                             MOBILE FIRST
                                                             
+                                                               HEADER
+                                                               
  ![mobile1](https://user-images.githubusercontent.com/99449649/216162915-d73fcadc-612e-497c-928c-506a2fc3df36.JPG)
+ 
  
  
  ![Mobile2](https://user-images.githubusercontent.com/99449649/216162984-22f3ee89-9a78-48b2-b4c0-3f0eb0b826dc.JPG)
  
+                                                             MENU BURGER
  
  ![Menu Burger](https://user-images.githubusercontent.com/99449649/216163021-56be0227-d400-4d1f-b7b0-feee5beb668c.JPG)
- 
- 
+                            
+                                                               FOOTER
+                                                             
  ![Mobile footer](https://user-images.githubusercontent.com/99449649/216163044-613bc6ab-6b48-4a36-b677-0d6e6cbfceba.JPG)
  
                                                            VERSION DESKTOP
+                                                               INDEX
                                                            
  ![index](https://user-images.githubusercontent.com/99449649/216163234-6357af39-ce8e-4f91-ad91-6294a67b62d6.JPG)
- 
+                                                                 
+                                                              OPTIONS
  
  ![option](https://user-images.githubusercontent.com/99449649/216163311-d40244b2-970e-4969-8228-13d6d6ded761.JPG)
  
- 
+                                                            ACCES AU BLOG
  ![blog](https://user-images.githubusercontent.com/99449649/216163342-666ea2fa-48c0-424a-9fb0-9788ad2fa375.JPG)
- 
+                                                            
+                                                          ACCES AUX ACTIVITES
  
  ![activités](https://user-images.githubusercontent.com/99449649/216163434-ed5e3be8-84f7-4d4d-b0bf-700c61f44f34.JPG)
  
-                                                             CODE
+                                                                CODE
                                                              
                                                              
 ![codeheader](https://user-images.githubusercontent.com/99449649/216163521-f838efdd-c851-4e2e-b590-c1ff81368fe3.JPG)
