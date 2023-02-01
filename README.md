@@ -61,7 +61,7 @@
                                                                
  ![mobile1](https://user-images.githubusercontent.com/99449649/216162915-d73fcadc-612e-497c-928c-506a2fc3df36.JPG)
  
- 
+                                                               SUITE
  
  ![Mobile2](https://user-images.githubusercontent.com/99449649/216162984-22f3ee89-9a78-48b2-b4c0-3f0eb0b826dc.JPG)
  
@@ -97,11 +97,17 @@
 
 ![reservation](https://user-images.githubusercontent.com/99449649/216163570-64b12c45-4131-4667-afc8-67dc243e19b7.JPG)
 
+                                                               SCRIPT
+
 ![script](https://user-images.githubusercontent.com/99449649/216163716-3aa680b4-c499-46e7-a498-04b5895720a0.JPG)
 
 ![script2](https://user-images.githubusercontent.com/99449649/216163718-791ae679-ccb1-49ba-b853-6bb7449ca3a2.JPG)
 
+                                                                CSS
+
 ![style](https://user-images.githubusercontent.com/99449649/216163755-5222f47e-58a3-4c61-9d4e-765195e446b5.JPG)
+
+                                                             MEDIA QUERY
 
 ![media](https://user-images.githubusercontent.com/99449649/216163569-8e255a3b-e44d-41c0-bffc-0beff5c4b986.JPG)
 
