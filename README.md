@@ -58,14 +58,41 @@
                                                             MOBILE FIRST
                                                             
  ![mobile1](https://user-images.githubusercontent.com/99449649/216162915-d73fcadc-612e-497c-928c-506a2fc3df36.JPG)
+ 
+ 
  ![Mobile2](https://user-images.githubusercontent.com/99449649/216162984-22f3ee89-9a78-48b2-b4c0-3f0eb0b826dc.JPG)
+ 
+ 
  ![Menu Burger](https://user-images.githubusercontent.com/99449649/216163021-56be0227-d400-4d1f-b7b0-feee5beb668c.JPG)
+ 
+ 
  ![Mobile footer](https://user-images.githubusercontent.com/99449649/216163044-613bc6ab-6b48-4a36-b677-0d6e6cbfceba.JPG)
  
                                                            VERSION DESKTOP
                                                            
  ![index](https://user-images.githubusercontent.com/99449649/216163234-6357af39-ce8e-4f91-ad91-6294a67b62d6.JPG)
+ 
+ 
  ![option](https://user-images.githubusercontent.com/99449649/216163311-d40244b2-970e-4969-8228-13d6d6ded761.JPG)
+ 
+ 
  ![blog](https://user-images.githubusercontent.com/99449649/216163342-666ea2fa-48c0-424a-9fb0-9788ad2fa375.JPG)
+ 
+ 
  ![activités](https://user-images.githubusercontent.com/99449649/216163434-ed5e3be8-84f7-4d4d-b0bf-700c61f44f34.JPG)
+ 
+                                                             CODE
+                                                             
+                                                             
+![codeheader](https://user-images.githubusercontent.com/99449649/216163521-f838efdd-c851-4e2e-b590-c1ff81368fe3.JPG)
+
+![reservation](https://user-images.githubusercontent.com/99449649/216163570-64b12c45-4131-4667-afc8-67dc243e19b7.JPG)
+
+![script](https://user-images.githubusercontent.com/99449649/216163716-3aa680b4-c499-46e7-a498-04b5895720a0.JPG)
+
+![script2](https://user-images.githubusercontent.com/99449649/216163718-791ae679-ccb1-49ba-b853-6bb7449ca3a2.JPG)
+
+![style](https://user-images.githubusercontent.com/99449649/216163755-5222f47e-58a3-4c61-9d4e-765195e446b5.JPG)
+
+![media](https://user-images.githubusercontent.com/99449649/216163569-8e255a3b-e44d-41c0-bffc-0beff5c4b986.JPG)
 
