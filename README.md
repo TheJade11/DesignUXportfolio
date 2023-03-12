@@ -1,4 +1,19 @@
-                                                                MOBILE FIRST VERSION 
+                                                               Site web traiteur DESKTOP
+                                                               
+![traiteur](https://user-images.githubusercontent.com/99449649/224561565-160d2c10-9c79-40c3-bf55-7cd9b7ac01f8.JPG)
+![traiteur2](https://user-images.githubusercontent.com/99449649/224561576-22e3a242-60d0-41ad-aad2-cde961384067.JPG)
+![traiteur3](https://user-images.githubusercontent.com/99449649/224561577-0039e020-f3de-4bd6-89ff-89a52c6a1e2c.JPG)
+![traiteur5](https://user-images.githubusercontent.com/99449649/224561579-a0e6d0cc-1768-445b-9b25-02a322fac2fb.JPG)
+![traiteur6](https://user-images.githubusercontent.com/99449649/224561580-fd78217a-979d-4de1-ade3-67ab5360caf9.JPG)
+![traiteur7](https://user-images.githubusercontent.com/99449649/224561581-b551c18e-af2d-49f6-8751-f6c1a78cdf00.JPG)
+![traiteur8](https://user-images.githubusercontent.com/99449649/224561582-740a8ff2-5f58-439e-9e72-b95d5a6e3abd.JPG)
+![traiteur9](https://user-images.githubusercontent.com/99449649/224561583-6671e88a-f36d-4c8f-8e9b-bcde93f54d69.JPG)
+
+
+**************************************************************************************************************************                       
+                                                               
+                                                               
+                                                               MOBILE FIRST VERSION 
                                                                 
                                                                 SITE WEB D ACCUPUNTEUR LEE
                                                                 
